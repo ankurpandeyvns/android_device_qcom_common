@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/ankurpandeyvns/zuk_ham_sourcecode/ZUI_1.5/kernel/Documentation/ABI/obsolete/pass.txt
