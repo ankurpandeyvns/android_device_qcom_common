@@ -15,47 +15,6 @@
 },
 {
     "domain": ".m.zbigz.com",
-    "expirationDate": 1507893088,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "__utmb",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "121147092.3.10.1507891276",
-    "id": 2
-},
-{
-    "domain": ".m.zbigz.com",
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "__utmc",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": true,
-    "storeId": "0",
-    "value": "121147092",
-    "id": 3
-},
-{
-    "domain": ".m.zbigz.com",
-    "expirationDate": 1507891876,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "__utmt",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "1",
-    "id": 4
-},
-{
-    "domain": ".m.zbigz.com",
     "expirationDate": 1523659288,
     "hostOnly": false,
     "httpOnly": false,
@@ -66,7 +25,7 @@
     "session": false,
     "storeId": "0",
     "value": "121147092.1507430845.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
-    "id": 5
+    "id": 2
 },
 {
     "domain": ".zbigz.com",
@@ -80,20 +39,7 @@
     "session": false,
     "storeId": "0",
     "value": "231359444.272960690.1507442198.1507633805.1507752976.3",
-    "id": 6
-},
-{
-    "domain": ".zbigz.com",
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "__utmc",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": true,
-    "storeId": "0",
-    "value": "231359444",
-    "id": 7
+    "id": 3
 },
 {
     "domain": ".zbigz.com",
@@ -107,21 +53,7 @@
     "session": false,
     "storeId": "0",
     "value": "231359444.1507752976.3.2.utmcsr=m.zbigz.com|utmccn=(referral)|utmcmd=referral|utmcct=/play/",
-    "id": 8
-},
-{
-    "domain": ".zbigz.com",
-    "expirationDate": 1507963277,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "_ym_isad",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "1",
-    "id": 9
+    "id": 4
 },
 {
     "domain": ".zbigz.com",
@@ -135,21 +67,7 @@
     "session": false,
     "storeId": "0",
     "value": "1507430845667741124",
-    "id": 10
-},
-{
-    "domain": ".zbigz.com",
-    "expirationDate": 1507893088,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "_ym_visorc_45941886",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "w",
-    "id": 11
+    "id": 5
 },
 {
     "domain": ".zbigz.com",
@@ -163,6 +81,6 @@
     "session": false,
     "storeId": "0",
     "value": "ncpkoei5hjirss7k8ale52ol17",
-    "id": 12
+    "id": 6
 }
 ]
